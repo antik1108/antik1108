@@ -47,7 +47,7 @@ Currently on my journey:
 
 ### **Data & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,excel,firebase,prisma" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,prisma" alt="Databases" />
 </p>
 
 ### **DevOps & Infrastructure**
