@@ -2,9 +2,9 @@
 
 # 👋 Antik Mondal
 
-**CS Engineer & Problem Solver | Building Healthcare Solutions**
+**Full-Stack Developer & Scalable Systems Enthusiast**
 
-*Crafting systems close to the core, turning ideas into impactful products*
+**_"I build systems that matter, one line of code at a time."_** 
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=antik1108&label=Profile%20Views&color=9046FF&style=flat-square" alt="Profile Views" />
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=500&color=9046FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=System+Design+%7C+DevOps+%7C+Healthcare+Tech;Startup+Builder+%7C+Problem+Solver;Learning+Infrastructure+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=500&color=9046FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Systems+Engineering+%7C+DevOps;Startup+Builder+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 </div>
@@ -24,7 +24,7 @@ I'm Antik, a CS engineer who loves **building systems and working close to the c
 I'm passionate about solving real-world problems through technology, especially in **healthcare innovation**.
 
 Currently on my journey:
--  **Building Healthcare Startups** – Co-founding Ayu Sangrah Bharat, transforming India's health records  
+-  **Building Healthcare Startups** – Co-founding Ayu Sangrah Bharat, transforming India's healthcare
 -  **Learning DevOps & Infrastructure** – Diving deep into Linux, Docker, and system architecture  
 -  **Problem Solving** – Turning complex challenges into working products  
 -  **Full-Stack Development** – Creating end-to-end solutions with modern tech stacks  
