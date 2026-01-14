@@ -24,11 +24,11 @@ I'm Antik, a CS engineer who loves **building systems and working close to the c
 I'm passionate about solving real-world problems through technology, especially in **healthcare innovation**.
 
 Currently on my journey:
-- 🏥 **Building Healthcare Startups** – Co-founding Ayu Sangrah Bharat, transforming India's health records  
-- 🐧 **Learning DevOps & Infrastructure** – Diving deep into Linux, Docker, and system architecture  
-- 🎯 **Problem Solving** – Turning complex challenges into working products  
-- 💻 **Full-Stack Development** – Creating end-to-end solutions with modern tech stacks  
-- 🏆 **Competition Winner** – 2nd Place at NIRMAAN 2025 Startup Buildathon (Delhi University)
+-  **Building Healthcare Startups** – Co-founding Ayu Sangrah Bharat, transforming India's health records  
+-  **Learning DevOps & Infrastructure** – Diving deep into Linux, Docker, and system architecture  
+-  **Problem Solving** – Turning complex challenges into working products  
+-  **Full-Stack Development** – Creating end-to-end solutions with modern tech stacks  
+-  **Competition Winner** – 2nd Place at NIRMAAN 2025 Startup Buildathon (Delhi University)
 
 ---
 
@@ -84,13 +84,13 @@ Currently on my journey:
 
 ## 🔥 Featured Projects
 
-### 🖥️ [Terminal Portfolio - ANTEC](https://github.com/antik1108/Terminal-Portfolio-ANTEC)
+###  [Terminal Portfolio - ANTEC](https://github.com/antik1108/Terminal-Portfolio-ANTEC)
 A Linux-inspired terminal portfolio with **real authentication** and interactive CLI. Built with React, Node.js, Express, MongoDB, JWT, and Docker. Features secure authentication, rate limiting, and monorepo architecture.
 
-### 🏥 [SnehoAyu](https://github.com/antik1108/snehoayu)
+###  [SnehoAyu](https://github.com/antik1108/snehoayu)
 Healthcare web app for **preterm baby care** and parent support. Built with React, TypeScript, Tailwind CSS. Mobile-first, accessible UI for tracking health metrics, feeding schedules, and immunization records.
 
-### 📦 [Authra](https://github.com/antik1108/authra)
+###  [Authra](https://github.com/antik1108/authra)
 Multi-tenant **university parcel management** platform with role-based auth, real-time tracking, and automated notifications. PostgreSQL + Prisma backend with Express.js.
 
 ---
@@ -112,7 +112,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.vi0letshadow._/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antik.mondal2024@nst.rishihood.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antik1108)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9046FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://antikmondal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9046FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://https://www.terminal-antec.tech//)
 
 </div>
 
@@ -123,7 +123,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 ### 💭 *"Building the infrastructure for tomorrow's healthcare, one system at a time"*
 
 **Currently Learning:** DevOps, System Architecture, Cloud Infrastructure  
-**Open to:** Collaborations on Healthcare Tech, Startup Projects, and Open Source
+**Open to:** Collaborations on Impactful Projects, Startups, and Open Source
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
@@ -133,9 +133,9 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 
 ## 💼 Current Work
 
-🏥 **Co-Founder @ Ayu Sangrah Bharat** – Building India's comprehensive health record platform  
-📚 **OS Head @ Society of Cyber Security** – Teaching Linux fundamentals and mentoring students  
-🎓 **B.Tech Student** – Newton School of Technology (AI specialization)
+ **Co-Founder @ Ayu Sangrah Bharat** – Building India's healthcare better
+ **OS Head @ Society of Cyber Security** – Teaching Linux fundamentals and mentoring students  
+ **B.Tech Student** – Newton School of Technology (AI specialization)
 
 ---
 
