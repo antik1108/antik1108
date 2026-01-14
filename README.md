@@ -104,7 +104,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.vi0letshadow._/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antik.mondal2024@nst.rishihood.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antik1108)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9046FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://https://www.terminal-antec.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9046FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.terminal-antec.tech/)
 
 </div>
 
