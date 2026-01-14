@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Antik Mondal
+# Antik Mondal
 
 **Full-Stack Developer & Scalable Systems Enthusiast**
 
@@ -18,7 +18,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm Antik, a CS engineer who loves **building systems and working close to the core**.  
 I'm passionate about solving real-world problems through technology, especially in **healthcare innovation**.
@@ -32,7 +32,7 @@ Currently on my journey:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Currently on my journey:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antik1108&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9046FF&icon_color=9046FF&text_color=F8FAFC"/>
@@ -74,15 +74,7 @@ Currently on my journey:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antik1108&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
+## Featured Projects
 
 ###  [Terminal Portfolio - ANTEC](https://github.com/antik1108/Terminal-Portfolio-ANTEC)
 A Linux-inspired terminal portfolio with **real authentication** and interactive CLI. Built with React, Node.js, Express, MongoDB, JWT, and Docker. Features secure authentication, rate limiting, and monorepo architecture.
@@ -95,7 +87,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 
 ---
 
-## 🔥 Recent Activity
+## Recent Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antik1108&theme=high-contrast&hide_border=true&bg_color=0D1117&color=9046FF&line=9046FF&point=F8FAFC" alt="Activity Graph" />
@@ -103,7 +95,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -131,7 +123,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 
 ---
 
-## 💼 Current Work
+## Current Work
 
  **Co-Founder @ Ayu Sangrah Bharat** – Building India's healthcare better
  **OS Head @ Society of Cyber Security** – Teaching Linux fundamentals and mentoring students  
@@ -145,7 +137,7 @@ Multi-tenant **university parcel management** platform with role-based auth, rea
 
 ---
 
-## 💬 Let's Build Together
+## Let's Build Together
 
-💡 Interested in healthcare innovation or system design?  
-📫 Reach out: [antik.mondal2024@nst.rishihood.edu.in](mailto:antik.mondal2024@nst.rishihood.edu.in)
+Interested in healthcare innovation or system design?  
+Reach out: [antik.mondal2024@nst.rishihood.edu.in](mailto:antik.mondal2024@nst.rishihood.edu.in)
