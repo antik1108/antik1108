@@ -20,14 +20,18 @@
 
 ## About Me
 
-I'm Antik, a CS engineer who loves **building systems and working close to the core**.  
-I'm passionate about solving real-world problems through technology, especially in **healthcare innovation**.
+Hi, I’m Antik Mondal.
+
+I’m an CS engineer and a problem solver.
+I like building systems and working close to the core.
+
+I enjoy writing code, designing systems,
+and turning ideas into working products.
 
 Currently on my journey:
 -  **Building Healthcare Startups** – Co-founding Ayu Sangrah Bharat, transforming India's healthcare
 -  **Learning DevOps & Infrastructure** – Diving deep into Linux, Docker, and system architecture  
 -  **Problem Solving** – Turning complex challenges into working products  
--  **Full-Stack Development** – Creating end-to-end solutions with modern tech stacks  
 -  **Competition Winner** – 2nd Place at NIRMAAN 2025 Startup Buildathon (Delhi University)
 
 ---
