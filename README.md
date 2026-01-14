@@ -45,7 +45,7 @@ Currently on my journey:
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,nextjs" alt="Languages & Frameworks" />
 </p>
 
-### **Data & Tools**
+### **Databases & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,prisma" alt="Databases" />
 </p>
