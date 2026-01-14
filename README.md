@@ -42,7 +42,7 @@ Currently on my journey:
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,nextjs" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vite,nodejs,express,nextjs" alt="Languages & Frameworks" />
 </p>
 
 ### **Databases & Tools**
