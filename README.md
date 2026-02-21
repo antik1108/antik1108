@@ -83,9 +83,6 @@ Currently on my journey:
 ###  [Terminal Portfolio - ANTEC](https://github.com/antik1108/Terminal-Portfolio-ANTEC)
 A Linux-inspired terminal portfolio with **real authentication** and interactive CLI. Built with React, Node.js, Express, MongoDB, JWT, and Docker. Features secure authentication, rate limiting, and monorepo architecture.
 
-###  [SnehoAyu](https://github.com/antik1108/snehoayu)
-Healthcare web app for **preterm baby care** and parent support. Built with React, TypeScript, Tailwind CSS. Mobile-first, accessible UI for tracking health metrics, feeding schedules, and immunization records.
-
 ###  [Authra](https://github.com/antik1108/authra)
 Multi-tenant **university parcel management** platform with role-based auth, real-time tracking, and automated notifications. PostgreSQL + Prisma backend with Express.js.
 
