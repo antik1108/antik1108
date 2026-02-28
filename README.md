@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 
-## I'm Antik! 🇮🇳
+## I'm Antik!☁️
 
 <a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1b2a?style=for-the-badge&logo=x&logoColor=white"/></a>
