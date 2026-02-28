@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 
-## I'm Antik Mondal! 👋 &nbsp;<a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/__.vi0letshadow._/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://www.terminal-antec.tech/"><img src="https://img.shields.io/badge/Portfolio-9046FF?&style=flat-square&logo=google-chrome&logoColor=white"/></a> <a href="mailto:antik.mondal2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+## I'm Antik Mondal! 👋 &nbsp;<a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?&style=flat-square&logo=linkedin&logoColor=0077B5"/></a> <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/Twitter-0d1117?&style=flat-square&logo=twitter&logoColor=1DA1F2"/></a> <a href="https://www.instagram.com/__.vi0letshadow._/"><img src="https://img.shields.io/badge/Instagram-0d1117?&style=flat-square&logo=instagram&logoColor=E4405F"/></a> <a href="https://www.terminal-antec.tech/"><img src="https://img.shields.io/badge/Portfolio-0d1117?&style=flat-square&logo=google-chrome&logoColor=9046FF"/></a> <a href="mailto:antik.mondal2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
 
 <a href="https://github.com/antik1108"><img align="right" alt="GitHub" src="https://img.shields.io/github/followers/antik1108?label=GitHub+Followers&labelColor=282c34&color=181717&logo=github&style=flat-square"/></a>
 
@@ -8,21 +8,15 @@
 
 I'm an undergraduate Computer Science & AI student and a backend-focused developer with a strong interest in building scalable systems, automation, and thoughtfully designed products.
 
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="250"/>
+
 My journey into programming began with creating Discord moderation bots, which later expanded into full-stack projects, backend systems, and infrastructure work. Along the way, I naturally grew interested in system design and reliability — leading me toward **Site Reliability Engineering**.
 
-- Building somethings in Healthcare.
+- Building something in Healthcare.
 - OS Head @ Society of Cyber Security.
-- 2x Hackthon/Buildathon Winner
+- 2x Hackathon/Buildathon Winner
 
 > *"I'm interested in Site Reliability Engineering."*
-
-<details>
-<summary>GitHub Stats</summary>
-
-![Antik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antik1108&theme=tokyonight&show_icons=true&hide_border=true)
-
-</details>
-
 
 <p>
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624"/>
