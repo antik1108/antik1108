@@ -6,12 +6,9 @@
 
 🎊 Hello world!
 
-A systems-obsessed full-stack dev who thinks in packets and dreams in logs.
-Co-Founder @ [Ayu Sangrah Bharat](https://github.com/antik1108) 🏥 · OS Head @ Society of Cyber Security.
-
-- 🔧 Full-Stack Dev → **SRE in progress**
-- 🐧 Linux · Docker · Networking · Backend · Cloud Infra
-- 💀 My portfolio is literally a Linux terminal — [terminal-antec.tech](https://www.terminal-antec.tech/)
+- 🔧 Full-Stack Dev → **SRE in progress** · Co-Founder @ [Ayu Sangrah Bharat](https://github.com/antik1108) 🏥
+- 🐧 Linux · Docker · Networking · Cloud Infra · OS Head @ Society of Cyber Security
+- 💀 Built a Linux terminal as a portfolio — [terminal-antec.tech](https://www.terminal-antec.tech/)
 - 🏆 2nd Place — NIRMAAN 2025 Startup Buildathon, Delhi University
 - 📬 `antik.mondal2024@nst.rishihood.edu.in` · [LinkedIn](https://www.linkedin.com/in/antik-t30a04m/) · [Twitter](https://x.com/Antik_30) · [Instagram](https://www.instagram.com/__.vi0letshadow._/)
 
