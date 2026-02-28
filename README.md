@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 
-## I'm Antik! 🎴
+## I'm Antik!👋
 
 <a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1b2a?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -16,7 +16,7 @@ I'm an undergraduate Computer Science & AI student and a backend-focused develop
 
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="250"/>
 
-My journey into programming began with creating Discord moderation bots, which later expanded into full-stack projects, backend systems, and infrastructure work. Along the way, I naturally grew interested in system design and reliability — leading me toward **Site Reliability Engineering**.
+My journey started from the terminal — Linux internals, shell scripting, and understanding how operating systems actually work under the hood. That low-level curiosity grew into shipping real products: a self-hosted music streamer, a real-time video chat app, a university parcel system, and a healthcare platform connecting patients to providers. I live at the intersection of systems thinking and product engineering — and that path is leading me straight toward **Site Reliability Engineering**.
 
 - Building something in Healthcare.
 - OS Head @ Society of Cyber Security.
