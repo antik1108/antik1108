@@ -18,9 +18,9 @@ I'm an undergraduate Computer Science & AI student and a backend-focused develop
 
 My journey started from the terminal — Linux internals, shell scripting, and understanding how operating systems actually work under the hood. That low-level curiosity grew into shipping real products: a self-hosted music streamer, a real-time video chat app, a university parcel system, and a healthcare platform connecting patients to providers. I live at the intersection of systems thinking and product engineering — and that path is leading me straight toward **Site Reliability Engineering**.
 
-- Building something in Healthcare.
+- Building Startup in healthcare.
 - OS Head @ Society of Cyber Security.
-- 2x Hackathon/Buildathon Winner
+- 2x Hackathon/Buildathon Winner.
 
 > *"I'm interested in Site Reliability Engineering."*
 
