@@ -8,10 +8,11 @@
 
 I'm an undergraduate Computer Science & AI student and a backend-focused developer with a strong interest in building scalable systems, automation, and thoughtfully designed products.
 
-My journey into programming began with creating Discord moderation bots, which later expanded into full-stack projects, backend systems, and infrastructure work. Along the way, I naturally grew interested in system design and reliability — leading me toward **Site Reliability Engineering**. I'm also Co-Founder @ [Ayu Sangrah Bharat](https://github.com/antik1108) 🏥 and OS Head @ Society of Cyber Security.
+My journey into programming began with creating Discord moderation bots, which later expanded into full-stack projects, backend systems, and infrastructure work. Along the way, I naturally grew interested in system design and reliability — leading me toward **Site Reliability Engineering**.
 
-- 💀 Built a Linux terminal as a portfolio — [terminal-antec.tech](https://www.terminal-antec.tech/)
-- 🏆 2nd Place — NIRMAAN 2025 Startup Buildathon, Delhi University
+- Building somethings in Healthcare.
+- OS Head @ Society of Cyber Security.
+- 2x Hackthon/Buildathon Winner
 
 > *"I'm interested in Site Reliability Engineering."*
 
