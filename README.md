@@ -4,7 +4,7 @@
 
 <a href="https://github.com/antik1108"><img align="right" alt="GitHub" src="https://img.shields.io/github/followers/antik1108?label=GitHub+Followers&labelColor=282c34&color=181717&logo=github&style=flat-square"/></a>
 
-🎊 Hello world!
+🐧 Hello world!
 
 - 🔧 Full-Stack Dev → **SRE in progress** · Co-Founder @ [Ayu Sangrah Bharat](https://github.com/antik1108) 🏥
 - 🐧 Linux · Docker · Networking · Cloud Infra · OS Head @ Society of Cyber Security
@@ -21,9 +21,6 @@
 
 </details>
 
-```txt
-No activity tracked
-```
 
 <p>
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624"/>
