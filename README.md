@@ -1,6 +1,12 @@
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 
-## I'm Antik!  &nbsp;<a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik0yMC4zNDcgMjAuMzQ5aC0zLjE1MXYtNC45NDJjMC0xLjE3OC0uMDIxLTIuNjkzLTEuNjQxLTIuNjkzLTEuNjQzIDAtMS44OTQgMS4yODMtMS44OTQgMi42MDh2NS4wMjdIMTAuNTFWOUgxMy41NXYxLjM4OWguMDQzYy40Mi0uNzk2IDEuNDQ3LTEuNjM0IDIuOTc4LTEuNjM0IDMuMTg2IDAgMy43NzUgMi4wOTcgMy43NzUgNC44MjV2Ni43Njl6TTUuMzM3IDcuNjA3YTEuODMgMS44MyAwIDAgMSAwLTMuNjYgMS44MyAxLjgzIDAgMCAxIDAgMy42NnptMS41NzggMTIuNzQySDMuNzU3VjloMy4xNTh2MTEuMzQ5ek0yMS45OSAySDEuOThDLjg5NSAyIDAgMi44NzkgMCAzLjk2M3YxNi4wNzRDMCAyMS4xMjEuODk1IDIyIDEuOTk4IDIyaDIwLjAwNEMyMi4xMDQgMjIgMjMgMjEuMTIxIDIzIDIwLjAzN1YzLjk2M0MyMyAyLjg3OSAyMi4xMDQgMiAyMS4wMDIgMnoiLz48L3N2Zz4=&logoColor=0A66C2"/></a> <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white&border=1"/></a> <a href="https://www.instagram.com/__.vi0letshadow._/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F"/></a> <a href="https://www.terminal-antec.tech/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=google-chrome&logoColor=9046FF"/></a> <a href="mailto:antik.mondal2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
+## I'm Antik!👋
+
+<a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/__.vi0letshadow._/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.terminal-antec.tech/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=9046FF"/></a>
+<a href="mailto:antik.mondal2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
 
 <a href="https://github.com/antik1108"><img align="right" alt="GitHub" src="https://img.shields.io/github/followers/antik1108?label=GitHub+Followers&labelColor=282c34&color=181717&logo=github&style=flat-square"/></a>
 
