@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/antik-t30a04m/">
   <img
     alt="LinkedIn"
-    src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0d1b2a"
+    src="https://img.shields.io/badge/--0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
   />
 </a>
 <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1b2a?style=for-the-badge&logo=x&logoColor=white"/></a>
