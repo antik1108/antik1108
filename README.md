@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/antik-t30a04m/">
   <img
     alt="LinkedIn"
-    src="https://img.shields.io/badge/in-LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
   />
 </a>
 
