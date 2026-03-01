@@ -2,7 +2,7 @@
 
 ## I'm Antik!! ☁️
 
-<a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<!-- <a href="https://www.linkedin.com/in/antik-t30a04m/"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a> -->
 <a href="https://x.com/Antik_30"><img src="https://img.shields.io/badge/X-0d1b2a?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/__.vi0letshadow._/"><img src="https://img.shields.io/badge/Instagram-0d1b2a?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 <a href="https://www.terminal-antec.tech/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=google-chrome&logoColor=9046FF"/></a>
