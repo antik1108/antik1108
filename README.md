@@ -12,7 +12,7 @@
 
 🐧 Hello world!
 
-I'm an undergraduate Computer Science & AI student and a backend-focused developer with a strong interest in building scalable systems, automation, and thoughtfully designed products.
+I'm an undergraduate Computer Science & AI student and a DevOps-focused developer with a strong interest in building scalable systems, automation, and thoughtfully designed products.
 
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="250"/>
 
