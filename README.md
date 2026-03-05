@@ -20,7 +20,7 @@ My journey started from the terminal — Linux internals, shell scripting, and u
 
 - Building Startup in healthcare.
 - OS Head @ Society of Cyber Security.
-- 2x Hackathon/Buildathon Winner.
+- 2+ Hackathon/Buildathon Winner.
 
 > *"I'm interested in Site Reliability Engineering."*
 
