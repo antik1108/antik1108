@@ -30,6 +30,8 @@ My journey started from the terminal — Linux internals, shell scripting, and u
 <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033"/>
+<img src="https://img.shields.io/badge/Networking-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
@@ -37,6 +39,7 @@ My journey started from the terminal — Linux internals, shell scripting, and u
 <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
 <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=for-the-badge&logo=mongodb&logoColor=4ea94b"/>
+  
 </p>
 
 ###### 💾 EOF
