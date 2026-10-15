@@ -11,48 +11,71 @@
 <a href="https://github.com/antik1108"><img align="right" alt="GitHub" src="https://img.shields.io/github/followers/antik1108?label=GitHub+Followers&labelColor=282c34&color=181717&logo=github&style=flat-square"/></a>
 
 **Systems nerd. Security-minded. Builder at heart.**
-I live in the layers most people never look at: the kernel, the network stack, the terminal. I don't just use Linux, I want to know what it's doing at every step, from a keypress to a syscall to a packet on the wire.
 
-My curiosity lives beneath the abstractions: how operating systems really work, how machines talk to each other, how networks are built and broken, and how software touches the hardware underneath it. I learn from first principles and turn that into real engineering.
+I live in the layers most people never look at: the kernel, the network stack, the terminal. I don't just use Linux, I want to know what it's doing at every step, from a keypress to a syscall to a packet on the wire.
 
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="250"/>
 
+My curiosity lives beneath the abstractions: how operating systems really work, how machines talk to each other, how networks are built and broken, and how software touches the hardware underneath it. I learn from first principles and turn that into real engineering.
+
 Outside the terminal, I'm obsessed with startups and building from zero. I take ownership, bring structure to messy ideas, and turn plans into execution with a team. Helping run and grow a technical community taught me leadership, operations, and how to get people moving in the same direction.
+
+<br/>
 
 ### What I'm Into
 
-- **Linux & Operating Systems** — system internals, processes, memory, and everything happening under the hood.
-- **Computer Networking** — protocols, network architecture, and how systems communicate.
-- **Cybersecurity** — vulnerabilities, system security, and defensive fundamentals.
-- **DevOps & Infrastructure** — containers, automation, deployment, and systems that stay up.
-- **Core Computer Science** — C, computer architecture, data structures, algorithms, and the fundamentals that make everything else click.
-- **Startups & Leadership** — building from zero, taking initiative, and turning ideas into reality with a team.
+| Area | Focus |
+| :--- | :--- |
+| **Linux & Operating Systems** | System internals, processes, memory, and everything happening under the hood |
+| **Computer Networking** | Protocols, network architecture, and how systems communicate |
+| **Cybersecurity** | Vulnerabilities, system security, and defensive fundamentals |
+| **DevOps & Infrastructure** | Containers, automation, deployment, and systems that stay up |
+| **Core Computer Science** | C, computer architecture, data structures, algorithms, and the fundamentals |
+| **Startups & Leadership** | Building from zero, taking initiative, and turning ideas into reality with a team |
+
+<br/>
 
 ### Technologies & Tools
 
+**Systems & Infrastructure**
+
 <p>
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=0db7ed"/>
 <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033"/>
 <img src="https://img.shields.io/badge/Networking-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033"/>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**Languages**
+
+<p>
 <img src="https://img.shields.io/badge/C-0d1b2a?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+</p>
+
+**Web & Databases**
+
+<p>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
 <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=for-the-badge&logo=mongodb&logoColor=4ea94b"/>
 </p>
 
+<br/>
+
 ### Beyond Code
 
-- 🛡️ **OS Head & Operations Head** — Society of Cyber Security.
-- 🏆 **2× Hackathon / Buildathon Winner.**
-- 🚀 Into startups, technical communities, and building things from the ground up.
+- **OS Head & Operations Head**, Society of Cyber Security
+- **2x Hackathon / Buildathon Winner**
+- Into startups, technical communities, and building things from the ground up
+
+<br/>
 
 > *"Understand the fundamentals. Build things that matter."*
 
