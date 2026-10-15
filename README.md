@@ -18,7 +18,7 @@ Outside the terminal, I'm obsessed with startups and building from zero. I take 
 
 ### What I'm Into
 
-<div><img src="https://img.shields.io/badge/LINUX_%26_OS-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624"/><img src="https://img.shields.io/badge/NETWORKING-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/><img src="https://img.shields.io/badge/CYBERSECURITY-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/><img src="https://img.shields.io/badge/DEVOPS-0d1b2a?style=for-the-badge&logo=docker&logoColor=0db7ed"/><img src="https://img.shields.io/badge/CORE_CS-0d1b2a?style=for-the-badge&logo=c&logoColor=A8B9CC"/><img src="https://img.shields.io/badge/STARTUPS_%26_LEADERSHIP-0d1b2a?style=for-the-badge&logo=ycombinator&logoColor=FF6600"/></div>
+<div><img src="https://img.shields.io/badge/LINUX-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624"/><img src="https://img.shields.io/badge/NETWORKING-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/><img src="https://img.shields.io/badge/CYBERSECURITY-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/><img src="https://img.shields.io/badge/DEVOPS-0d1b2a?style=for-the-badge&logo=docker&logoColor=0db7ed"/><img src="https://img.shields.io/badge/CORE_CS-0d1b2a?style=for-the-badge&logo=c&logoColor=A8B9CC"/><img src="https://img.shields.io/badge/STARTUPS_%26_LEADERSHIP-0d1b2a?style=for-the-badge&logo=ycombinator&logoColor=FF6600"/></div>
 
 ### Technologies & Tools
 
