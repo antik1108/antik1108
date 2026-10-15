@@ -24,46 +24,82 @@ Outside the terminal, I'm obsessed with startups and building from zero. I take 
 
 ### What I'm Into
 
-| Area | Focus |
-| :--- | :--- |
-| **Linux & Operating Systems** | System internals, processes, memory, and everything happening under the hood |
-| **Computer Networking** | Protocols, network architecture, and how systems communicate |
-| **Cybersecurity** | Vulnerabilities, system security, and defensive fundamentals |
-| **DevOps & Infrastructure** | Containers, automation, deployment, and systems that stay up |
-| **Core Computer Science** | C, computer architecture, data structures, algorithms, and the fundamentals |
-| **Startups & Leadership** | Building from zero, taking initiative, and turning ideas into reality with a team |
+```console
+antik@kernel:~$ ls ~/interests
+```
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/LINUX_%26_OS-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<br/><br/>
+Kernel internals, processes, memory, and everything happening under the hood.
+</td>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/NETWORKING-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<br/><br/>
+Protocols, architecture, and how two machines actually agree to talk.
+</td>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/CYBERSECURITY-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<br/><br/>
+Vulnerabilities, system security, and defensive fundamentals.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/DEVOPS-0d1b2a?style=for-the-badge&logo=docker&logoColor=0db7ed"/>
+<br/><br/>
+Containers, automation, deployment, and systems that stay up.
+</td>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/CORE_CS-0d1b2a?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<br/><br/>
+C, computer architecture, data structures, algorithms, and fundamentals.
+</td>
+<td align="center" valign="top" width="33%">
+<img src="https://img.shields.io/badge/STARTUPS_%26_LEADERSHIP-0d1b2a?style=for-the-badge&logo=ycombinator&logoColor=FF6600"/>
+<br/><br/>
+Building from zero, taking initiative, and turning ideas into reality.
+</td>
+</tr>
+</table>
 
 <br/>
 
 ### Technologies & Tools
 
-**Systems & Infrastructure**
+```console
+antik@kernel:~$ cat ~/stack
+```
+
+**`~/stack/systems`**
 
 <p>
-<img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=0db7ed"/>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS-0d1b2a?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Networking-0d1b2a?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=F05033"/>
+<img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Languages**
+**`~/stack/languages`**
 
 <p>
 <img src="https://img.shields.io/badge/C-0d1b2a?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+<img src="https://img.shields.io/badge/Node.js-0d1b2a?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
 </p>
 
-**Web & Databases**
+**`~/stack/web-and-data`**
 
 <p>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img src="https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0d1b2a?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=for-the-badge&logo=mongodb&logoColor=4ea94b"/>
 </p>
 
